@@ -1,0 +1,15 @@
+port = 25565
+life_timer = 30
+send_timer = 10
+auto_timer = 1
+auto_sending = 0
+life_emitting = 0
+message_quantity = 20
+search_group_ids = 19582;#;49439086;#;49468741;#;30096257;#;173925080;#;
+search_group_names = Алан Рикман - профессор мечты;#;Дома не поймут;#;ты сохранишь;#;Алан Рикман / Alan Rickman. Золотое сердце.;#;пикчи с любовью;#;
+protected_group_id = 185848867;#;
+protected_group_name = Типичный Снейпоман | Северус Снейп | Алан Рикман;#;
+last_launch = 2021-04-28 12:30:00.971916
+last_repost = 2021-04-28 12:30:00.971916
+last_check_message = 2021-04-28 20:20:24.662644
+last_life_action = 2021-04-28 20:20:17.321609
